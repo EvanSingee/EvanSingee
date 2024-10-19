@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @EvanSingee
-- 👀 I’m interested in Competitive Programming,Web Development
-- 🌱 I’m currently learning DSA,HTML,CS,JSS,etc
-- 💞️ I’m looking to collaborate on Dev projects
-- 📫 How to reach me https://www.linkedin.com/in/kailash-choudhary-915643156/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Bananas are technically berries, but Strawberries aren't
+<h1 align="center">Hi 👋, I'm Kailash Choudhary</h1>
+<h3 align="center">A passionate developer diving into Competitive Programming and Full Stack Web Development</h3>
 
-<!---
-EvanSingee/EvanSingee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailashchoudhary&label=Profile%20views&color=blueviolet&style=flat" alt="profile-views" /> </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=28&color=0C93F7&lines=Competitive+Programmer;Full-Stack+Developer;Open-Source+Enthusiast;Lifelong+Learner">
+</p>
+
+---
+
+- 🌱 **Currently learning:** Data Structures, Algorithms, and Full Stack Development  
+- 🔭 **Working on:** [Project X](https://github.com/YourUsername/YourProject)  
+- 🤝 **Looking to collaborate on:** Open-source projects  
+- 📫 **Contact me at:** kailash.email@example.com  
+- ⚡ **Fun fact:** Coding while sipping coffee is my superpower ☕  
+
+---
+
+<h2 align="left">📱 Connect with Me</h2>
+<p align="left">
+  <a href="https://www.linkedin.com/in/kailashchoudhary" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/kailashchoudhary" target="blank">
+    <img src="https://img.shields.io/badge/GitHub-%231210
