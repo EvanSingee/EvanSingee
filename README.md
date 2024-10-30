@@ -9,10 +9,9 @@
 
 ---
 
-- 🌱 **Currently learning:** Data Structures, Algorithms, and Full Stack Development  
-- 🔭 **Working on:** [Project X](https://github.com/YourUsername/YourProject)  
-- 🤝 **Looking to collaborate on:** Open-source projects  
-- 📫 **Contact me at:** kailash.email@example.com  
+- 🌱 **Currently learning:** Data Structures, Algorithms, and Full Stack Development
+- - 🤝 **Looking to collaborate on:** Open-source projects  
+- 📫 **Contact me at:** khailash@gmail.com  
 - ⚡ **Fun fact:** Coding while sipping coffee is my superpower ☕  
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
