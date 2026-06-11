@@ -30,7 +30,7 @@
 
 <h2 align="left">📱 Connect with Me</h2>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kailashchoudhary" target="blank">
+  <a href="[https://www.linkedin.com/in/kailashchoudhary](https://www.linkedin.com/in/kailashchoudhary/)" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/kailashchoudhary" target="blank">
